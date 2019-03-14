@@ -14,5 +14,6 @@
 <li>Выполнить команду java -jar target/ReportCard.jar</li>
 (JDK 1.8.0_191, Maven: 3.3.9)<br><br>
 
-
+Используемый порт 8080.<br>
+http://localhost:8080/
     
